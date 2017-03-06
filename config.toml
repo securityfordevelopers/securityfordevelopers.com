@@ -1,0 +1,7 @@
+baseurl = "https://www.securityfordevs.com/"
+languageCode = "en-us"
+title = "Security for Developers"
+
+[params]
+  twitterName = "securityfordevs"
+  twitter = "securityfordevs"
